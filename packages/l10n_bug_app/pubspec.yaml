@@ -1,0 +1,17 @@
+name: l10n_bug_app
+
+environment:
+  sdk: 3.8.0-149.0.dev
+  flutter: 3.30.0-1.0.pre.523
+
+resolution: workspace
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+
+flutter:
+  uses-material-design: true
