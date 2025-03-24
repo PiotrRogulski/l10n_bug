@@ -1,8 +1,8 @@
 name: l10n_bug_app
 
 environment:
-  sdk: 3.8.0-149.0.dev
-  flutter: 3.30.0-1.0.pre.523
+  sdk: 3.8.0-221.0.dev
+  flutter: 3.31.0-1.0.pre.213
 
 resolution: workspace
 
